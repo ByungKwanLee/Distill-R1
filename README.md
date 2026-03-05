@@ -46,9 +46,6 @@ pip install -r requirements.txt
 
 # Install Flash Attention (CUDA 12, PyTorch 2.8, Python 3.12)
 pip install https://github.com/Dao-AILab/flash-attention/releases/download/v2.8.3/flash_attn-2.8.3+cu12torch2.8cxx11abiFALSE-cp312-cp312-linux_x86_64.whl
-
-# Install this project
-pip install -e .
 ```
 
 ### Verify Installation of Torch and FlashAttention
